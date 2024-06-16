@@ -19,6 +19,9 @@ as simple as possible with minimal external crates.
 
 ## Project Status
 
-The whole thing is still ongoing.
+The whole thing is still ongoing. Graphics not even polished at all yet. Current screenshot:
+
+![Screenshot from 2024-06-17 01-18-11](https://github.com/ahmad-alkadri/tet-rs/assets/22837764/c73a2baa-ca42-480c-9a74-9c5e4d61f32d)
+
 
 Contributions are welcome!
